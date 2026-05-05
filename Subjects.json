@@ -1,9 +1,13 @@
 {
-    "Name": "",
-    "TimeLayouts": {},
-    "ClassPlans": {},
-    "Subjects": {
-       "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
+  "Name": "",
+  "TimeLayouts": {
+
+  },
+  "ClassPlans": {
+
+  },
+  "Subjects": {
+    "97d0bf3f-137f-4f8a-87d6-ff387063bbd3": {
       "Name": "语文",
       "Initial": "语",
       "TeacherName": "",
@@ -347,5 +351,6 @@
   "TempClassPlanGroupType": 1,
   "Id": "6d9fdc04-e25e-4344-ae89-238a2f20a382",
   "OrderedSchedules": {
-    }
+
+  }
 }

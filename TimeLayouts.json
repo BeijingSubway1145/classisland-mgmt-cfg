@@ -1,7 +1,7 @@
 {
-    "Name": "",
-    "TimeLayouts": {
-      "6ddf616b-aea1-4056-988e-54f0adaf1c4d": {
+  "Name": "",
+  "TimeLayouts": {
+    "6ddf616b-aea1-4056-988e-54f0adaf1c4d": {
       "Name": "2-4",
       "Layouts": [
         {
@@ -2522,7 +2522,11 @@
       },
       "IsActive": false
     }
-    },
-    "ClassPlans": {},
-    "Subjects": {}
+  },
+  "ClassPlans": {
+
+  },
+  "Subjects": {
+
+  }
 }
