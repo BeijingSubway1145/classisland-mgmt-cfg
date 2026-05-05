@@ -1,6 +1,6 @@
 {
     "ServerKind": 0,
-    "CoreVersion": "2.0.0.1",
+    "CoreVersion": "2.0.0.6",
     "OrganizationName": "Hello"
     "ClassPlanSource": {
         "Value": "https://raw.githubusercontent.com/BeijingSubway1145/classisland-mgmt-cfg/master/classplans.json",
